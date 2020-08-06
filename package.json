@@ -1,0 +1,23 @@
+{
+  "name": "03-bases-node",
+  "version": "1.0.0",
+  "description": "Aplicacion de linea de comandos ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tysoncardelli/node-bases.git"
+  },
+  "author": "Tyson Cardelli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tysoncardelli/node-bases/issues"
+  },
+  "homepage": "https://github.com/tysoncardelli/node-bases#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^15.4.1"
+  }
+}
